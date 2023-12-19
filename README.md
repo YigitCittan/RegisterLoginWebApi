@@ -4,7 +4,7 @@
 
 2)Change the "Ef_Postgres_Db" Connection string values to your database values
 
-3)Open VSCode terminal and paste the cli commands of EntityFrameWorkCore and Npgsql.EntityFrameworkCore
+3)Open VSCode terminal and add nuget packages of EntityFrameWorkCore and Npgsql.EntityFrameworkCore
 
 4)After nuget installizations use "dotnet ef migrations add initialdatabase"cli command to do create your AccountsDatabase
 
